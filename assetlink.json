@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.hopefloats.mobiforce",
-    "sha256_cert_fingerprints":
-    ["C0:A7:10:B5:4B:31:F0:2D:E7:2C:A1:69:D8:2E:7F:7E:12:05:7F:BD:84:3F:AD:B1:96:23:3A:98:E5:01:29:96"]
-  }
-}]
